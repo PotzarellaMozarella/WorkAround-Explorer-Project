@@ -7,7 +7,7 @@ const formatNumbers = (number) => {
     }
     let decimal = String(number).split(".");
     //handle case where the salary does not have a decimal
-    if (decimal[1] == true) {
+    if (decimal[1]) {
       return newNum + "." + decimal[1];
     } else {
       return number;
