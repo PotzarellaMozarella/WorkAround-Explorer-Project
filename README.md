@@ -1,10 +1,10 @@
-Sure, here's a README.md for the WorkAround Explorer project:
-
 # WorkAround Explorer: Visualize Tech Industry Salary Trends
 
 Welcome to **WorkAround Explorer**, a web application developed by WorkAround, a research organization dedicated to providing valuable insights into salary trends within the tech industry. WorkAround Explorer allows users to easily explore and compare various salary data points, making it an invaluable tool for job seekers, industry analysts, and tech enthusiasts.
 
-![WorkAround Explorer](screenshot.png)
+You can check it out on this link: [WorkAround](https://work-around-explorer-swart.vercel.app/) 
+
+![WorkAround Explorer](WorkAround.png)
 
 ## Features
 
